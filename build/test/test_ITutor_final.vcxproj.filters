@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\repos\lab\Final\test\test_functions.cpp">
+    <ClCompile Include="C:\repos\Final\test\test_functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\repos\lab\Final\test\test_main.cpp">
+    <ClCompile Include="C:\repos\Final\test\test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\repos\lab\Final\test\CMakeLists.txt" />
+    <CustomBuild Include="C:\repos\Final\test\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{EBE92868-4ACC-3349-BBE9-ACD2E395C106}</UniqueIdentifier>
+      <UniqueIdentifier>{E1165077-B5CC-3EC5-A418-B6EC1B421AEA}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
