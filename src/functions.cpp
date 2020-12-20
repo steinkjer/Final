@@ -1,5 +1,6 @@
 #include "functions.h"
 
+//my changes
 // example
 int numberOfNonZeroElements(vector <int> vec)
 {
